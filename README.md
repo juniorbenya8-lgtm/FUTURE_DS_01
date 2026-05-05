@@ -1,34 +1,41 @@
 # FUTURE_DS_01
-Business Sales Performance Analysis
-🔍 Objective
-Analyze business sales data to identify:
+Business Sales Performance Dashboard
 
-Revenue trends
-Top-selling products
-High-value categories
-Regional performance
+🔍 Problem Statement
+Businesses often struggle to understand:
+Which products generate the most revenue
+How sales change over time
+Which categories and regions are most profitable
+
+This project analyzes sales data to provide actionable insights that support better business decision-making.
 
 🛠 Tools Used
-Tableau
-Microsoft Excel
+Tableau (Dashboard & Visualization)
+Microsoft Excel (Data Cleaning)
 
 📈 Key Insights
-Sales show a consistent upward trend over time
-A small number of products contribute most of the revenue
-Some categories generate high sales but low profit
-Regional performance varies significantly
+📊 Revenue Trend:
+Sales show an overall upward trend with noticeable peak periods, indicating possible seasonality or promotional impact
+
+🏆 Top Products:
+A small number of products contribute a large portion of total revenue
+🧾 Category Performance:
+Some categories generate high sales but low profit, suggesting inefficiencies in pricing or cost structure
+
+🌍 Regional Performance:
+Certain regions perform strongly in sales but underperform in profitability
 
 💡 Recommendations
-Focus on top-performing products
-Improve pricing in low-profit categories
+Focus on high-performing products through marketing and inventory expansion
+Review pricing strategies in low-profit categories
 Invest more in high-performing regions
-Optimize operations in underperforming regions
+Investigate and optimize underperforming regions
 
-📁 Files Included
+📁 Project Files
 Dataset
 Dashboard screenshot
 Analysis files
 
-🚀 Author
+ Author
 Serge Junior Benya
 Aspiring Data Analyst
